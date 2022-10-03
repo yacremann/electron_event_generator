@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FT2232HQ
+F https://www.mouser.ch/datasheet/2/163/DS_FT2232H-1621240.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="DldSimulator" location="DldSimulator" platform="DldSimulatorPlatform/export/DldSimulatorPlatform/DldSimulatorPlatform.xpfm" platformUID="xilinx:::0.0(custom)" systemProject="DldSimulator_system" sysConfig="DldSimulatorPlatform" runtime="C/C++" cpu="standalone_domain" cpuInstance="microblaze_0" os="standalone" mssSignature="a451d1c42ce7acd91e462fe9ad8ca0bc">
+  <configuration name="Debug" id="xilinx.gnu.mb.exe.debug.912037739">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.mb.exe.release.1671366544" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP151WAUJZ-1.8-R7
+D Linear Regulator, Ultralow Noise, 1.8V Output, 200mA
+F https://www.mouser.ch/datasheet/2/609/ADP151-1551419.pdf
+$ENDCMP
+#
+#End Doc Library

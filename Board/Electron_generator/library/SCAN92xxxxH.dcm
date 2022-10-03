@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SCAN921025H
+F https://www.ti.com/lit/ds/symlink/scan921025h.pdf
+$ENDCMP
+#
+$CMP SCAN921226H
+F https://www.ti.com/lit/ds/symlink/scan921226h.pdf
+$ENDCMP
+#
+#End Doc Library

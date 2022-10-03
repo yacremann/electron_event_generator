@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM7171ACPZ-1.8-R7
+F https://www.mouser.ch/datasheet/2/609/adm7171-1503257.pdf
+$ENDCMP
+#
+$CMP ADM7171ACPZ-2.5-R7
+D LDO, 2.5V output, 1A, 
+F https://www.mouser.ch/datasheet/2/609/adm7171-1503257.pdf
+$ENDCMP
+#
+#End Doc Library

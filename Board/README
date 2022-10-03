@@ -1,0 +1,8 @@
+Board files for the electron event generator:
+
+The board is basicaly an adapter board for the Trenz Electronics TE0725-03-100-2C FPGA board.
+The Trenz board goes "upside down" onto our "ElectronGenerator" board.
+CAUTION: REMOVE R25 on the Trenz board as we supply 2.5V to the LVDS IO blocks!!
+
+The HDMI-Connector is used to send the signal to the TDC (as specified by SurfaceConcept) whereas the SMA outputs are for measurements with an oscloscope.
+

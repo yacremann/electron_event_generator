@@ -1,0 +1,2 @@
+Contains submodules. We use the Ruckus build system from SLAC to generate the
+output files (https://github.com/slaclab/ruckus)

@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name ZL40213)(type Legacy)(uri ${KIPRJMOD}/library/ZL40213.lib)(options "")(descr ""))
+  (lib (name FT2232HQ)(type Legacy)(uri ${KIPRJMOD}/library/FT2232HQ.lib)(options "")(descr ""))
+  (lib (name MC100EPT21)(type Legacy)(uri ${KIPRJMOD}/library/MC100EPT21.lib)(options "")(descr ""))
+  (lib (name ADM715x)(type Legacy)(uri ${KIPRJMOD}/library/ADM715x.lib)(options "")(descr ""))
+  (lib (name ML-DLD_CFD-TestBench_V1.0-eagle-import)(type Legacy)(uri ${KIPRJMOD}/library/ML-DLD_CFD-TestBench_V1.0-eagle-import.lib)(options "")(descr ""))
+  (lib (name SN74LV1)(type Legacy)(uri ${KIPRJMOD}/library/SN74LV1.lib)(options "")(descr ""))
+  (lib (name ADM7171ACPZ-1.8-R7)(type Legacy)(uri ${KIPRJMOD}/library/ADM7171ACPZ-1.8-R7.lib)(options "")(descr "")(disabled))
+  (lib (name ADM7171)(type Legacy)(uri ${KIPRJMOD}/library/ADM7171.lib)(options "")(descr ""))
+  (lib (name Electron_generator-rescue)(type Legacy)(uri ${KIPRJMOD}/Electron_generator-rescue.lib)(options "")(descr ""))
+)

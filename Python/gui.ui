@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>456</width>
+    <height>361</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QCheckBox" name="ext_start_checkbox">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>116</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Use ext. start</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="start_interval_input">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>74</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="suffix">
+     <string/>
+    </property>
+    <property name="minimum">
+     <number>100</number>
+    </property>
+    <property name="maximum">
+     <number>64000</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>45</y>
+      <width>190</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>int. start interval (clk cycles)</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="number_active_spectrum_generator">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>100</y>
+      <width>48</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>32</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>95</y>
+      <width>136</width>
+      <height>34</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>number of active spectrum generator</string>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="enable_generator_list_1">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>220</y>
+      <width>158</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Use list generator 1</string>
+    </property>
+   </widget>
+   <widget class="QCheckBox" name="enable_generator_list_2">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>260</y>
+      <width>158</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Use list generator 2</string>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="x_axis_1">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>220</y>
+      <width>48</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="minimum">
+     <number>-32</number>
+    </property>
+    <property name="maximum">
+     <number>31</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="y_axis_1">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>220</y>
+      <width>48</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="minimum">
+     <number>-32</number>
+    </property>
+    <property name="maximum">
+     <number>31</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="t0_1">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>220</y>
+      <width>57</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>800</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="t0_2">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>260</y>
+      <width>57</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="maximum">
+     <number>800</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="x_axis_2">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>260</y>
+      <width>48</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="minimum">
+     <number>-32</number>
+    </property>
+    <property name="maximum">
+     <number>31</number>
+    </property>
+   </widget>
+   <widget class="QSpinBox" name="y_axis_2">
+    <property name="geometry">
+     <rect>
+      <x>280</x>
+      <y>260</y>
+      <width>48</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="minimum">
+     <number>-32</number>
+    </property>
+    <property name="maximum">
+     <number>31</number>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>215</x>
+      <y>190</y>
+      <width>8</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>x</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>295</x>
+      <y>190</y>
+      <width>9</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>y</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>375</x>
+      <y>190</y>
+      <width>15</width>
+      <height>17</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>t0</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>456</width>
+     <height>20</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

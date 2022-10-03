@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD9543
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD9543.pdf
+$ENDCMP
+#
+#End Doc Library

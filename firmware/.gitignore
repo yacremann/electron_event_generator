@@ -1,0 +1,4 @@
+build/
+release/
+targets/electron_event_generator/images/
+.ipynb_checkpoints/

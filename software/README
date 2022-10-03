@@ -1,0 +1,20 @@
+To generator software projects:
+
+1.) Synthesize the firmware! This will create the electron_event_generator.xsa file.
+
+2.) <path to Vitis binaries/>xsct platform.tcl
+
+3.) Create a directory outside this project for the Vitis workspace
+
+4.) Start Vitis, use the new workspace directory
+
+5.) File - Import - Eclipse Workspace
+Select this directory as the root directory
+
+6.) Build all
+
+To program the flash memory:
+in the workspace: go to the directory DldSimulator and run program_flash.sh
+Caution: You may need to change the path to the Xilinx Vitis binaries!
+
+I tried to remove all absolute paths, so please don't push any absolute paths into the reo!

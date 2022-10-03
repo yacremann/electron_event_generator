@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN65LVDS4
+F https://www.ti.com/lit/ds/symlink/sn65lvds4.pdf
+$ENDCMP
+#
+#End Doc Library

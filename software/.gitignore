@@ -1,0 +1,7 @@
+DldSimulatorPlatform/
+DldSimulator/Debug/
+DldSimulator/_ide
+DldSimulator_system/Debug
+.Xil/
+electron_event_generator.xsa
+

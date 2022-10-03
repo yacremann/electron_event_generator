@@ -1,0 +1,4 @@
+Drivers for writing / reading from the registers to control the electron_event_generator
+(using both modes, the spectrum generator as wel as the gnerator based on lists).
+
+There is also a simple GUI for the same purpose.

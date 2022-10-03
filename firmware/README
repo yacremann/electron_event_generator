@@ -1,0 +1,11 @@
+Building the firmware:
+
+Add the binary directory of Vivado into your path
+This was tested with Vivado 2021.2 only!
+
+cd targets/electron_event_generator
+make
+(if needed: make gui)
+
+to clean it up:
+make clean

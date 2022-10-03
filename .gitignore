@@ -1,0 +1,53 @@
+*.log
+*.aux
+*.bbl
+*.out
+*.synctex.gz
+*.blg
+.ipynb_checkpoints/
+Preparation/task_description/task_description.pdf
+
+
+*.vcd
+sim_build/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# For KiCad
+# Temporary files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (exported from Eeschema)
+*.net
+
+# Autorouter files (exported from Pcbnew)
+*.dsn
+*.ses
+
+# Exported BOM files
+*.xml
+*.csv
+
+# kicad 8 backups
+*-backups
+
+__pycache__/
+
+firmware/targets/electron_event_generator/images/
+firmware/build/
+

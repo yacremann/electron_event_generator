@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM7154ACPZ-1.8R7
+D Linear Regulator, 600mA, Ultralow Noise, 3.3V Output
+F https://www.mouser.ch/datasheet/2/609/ADM7154-1503181.pdf
+$ENDCMP
+#
+$CMP ADM7154ACPZ-3.3R7
+D Linear Regulator, 600mA, Ultralow Noise, 3.3V Output
+F https://www.mouser.ch/datasheet/2/609/ADM7154-1503181.pdf
+$ENDCMP
+#
+$CMP ADM7155ACPZ-03R7
+D Linear Regulator, 600mA, Ultralow Noise, Adjustable Output
+F https://www.mouser.ch/datasheet/2/609/ADM7155-1503197.pdf
+$ENDCMP
+#
+#End Doc Library
